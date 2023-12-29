@@ -1,0 +1,6 @@
+fibo:
+  difPerc: 100
+  minPercFibo: 20
+  minDaysFibo: 6
+  checkZoneFibo: 38.2
+  checkMaxZoneFibo: -20
